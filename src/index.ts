@@ -73,4 +73,4 @@ for (let i = 0; i < newBlockData.length; i++) {
 setTimeout(() => {
     console.log("\n⛓️ Current Blockchain:");
     console.dir(blockchain, { depth: null });
-}, 5000);
+}, blockchain.difficulty * 2000); // Wait for mining to complete
