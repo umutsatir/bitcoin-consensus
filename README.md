@@ -36,16 +36,16 @@ src/
 npm install
 ```
 
-### Compile TypeScript
+### Compile TypeScript and Run
 
 ```bash
-npx tsc
+npm run build
 ```
 
-### Run
+OR
 
 ```bash
-node src/index.js
+npx tsc && node src/index.js
 ```
 
 ## 🔧 Usage
@@ -183,7 +183,8 @@ Each new block must pass these validations:
 5. Open Pull Request
 
 ## ⏩ To-do
-- Frontend might be created to see the system clearly
+
+-   Frontend might be created to see the system clearly
 
 ## 🔗 Resources
 
