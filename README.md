@@ -182,9 +182,8 @@ Each new block must pass these validations:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is published under MIT license.
+## ⏩ To-do
+- Frontend might be created to see the system clearly
 
 ## 🔗 Resources
 
